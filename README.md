@@ -1,1 +1,2 @@
-My ai course 
+# First-Rag-project
+This is my first rag project
